@@ -1,0 +1,392 @@
+Uri: http://www.emmanuelchurchsidlow.co.uk/
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\index.htm
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/favicon.ico
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\favicon.txt
+Content Type: text/plain
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/font-awesome.min.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/sidlow_and_charlwood.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\sidlow_and_charlwood.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/index.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\index.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/index.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\index.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/lent.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\lent.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/services.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\services.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/whats-on.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\whats-on.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/activities.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\activities.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/choir.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\choir.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/about-us.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\about-us.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/our-history.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\our-history.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/gallery.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\gallery.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/contact-us.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\contact-us.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/links.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\links.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/coffee-chat.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\coffee-chat.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/home-c.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\home-c.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Parish-News.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Parish-News.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Sunday-Service.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Sunday-Service.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Night-Prayer.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Night-Prayer.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/jquery-1.12.4.min.js
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\jquery-1.12.4.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/jquery-ui.min.js
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\jquery-ui.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/st-marys-video.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\st-marys-video.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\fontawesome-webfont.txt
+Content Type: text/plain
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/fontawesome-webfont.eot?
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\fontawesome-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\fontawesome-webfont-2.txt
+Content Type: text/plain
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\fontawesome-webfont-3.txt
+Content Type: text/plain
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\fontawesome-webfont-4.txt
+Content Type: text/plain
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/emmanuel_v5.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\emmanuel_v5.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/lent.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\lent.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Colours.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Colours.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/services.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\services.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/whats-on.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\whats-on.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/activities.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\activities.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/wb.parallax.min.js
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\wb.parallax.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/choir.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\choir.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/choir_v1.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\choir_v1.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/about-us.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\about-us.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/about_us1.JPG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\about_us1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/our-history.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\our-history.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/the_church.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\the_church.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/lych_gate.JPG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\lych_gate.JPG
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/stained_glass.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\stained_glass.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/gallery.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\gallery.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/church1.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\church1.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/church2.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\church2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/church4.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\church4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/church3.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\church3.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/graves.JPG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\graves.JPG
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/cross1.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\cross1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/wed3.JPG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\wed3.JPG
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/wed2.JPG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\wed2.JPG
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/wed1.JPG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\wed1.JPG
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/contact-us.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\contact-us.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/sue_1.PNG
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\sue_1.PNG
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/chris_vallins.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\chris_vallins.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/maryver2.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\maryver2.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/logo2.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\logo2.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/sidlow_map.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\sidlow_map.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/links.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\links.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/c_of_e_logo.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\c_of_e_logo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/st_nics_charlwood.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\st_nics_charlwood.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/southwark.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\southwark.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/reigate_deanery.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\reigate_deanery.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/upper_mole.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\upper_mole.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/charlwood_parish.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\charlwood_parish.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/visit_surrey.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\visit_surrey.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/sidlow_council.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\sidlow_council.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/organ.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\organ.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/wood_planks.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\wood_planks.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/stained_window.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\stained_window.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/coffee-chat.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\coffee-chat.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/home-c.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\home-c.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/lent-c.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\lent-c.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/services-c.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\services-c.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/whats-on-C.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\whats-on-C.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/contact-us-C.html
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\contact-us-C.html
+Content Type: text/html
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/services.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\services.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/diary.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\diary.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/Contacts2.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\Contacts2.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Parish-News.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Parish-News.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/parish-news.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\parish-news.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Sunday-Service.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Sunday-Service.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Night-Prayer.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Night-Prayer.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/people-praying3.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\people-praying3.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/Colours.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\Colours.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/activities_v1.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\activities_v1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/Contacts_V1.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\Contacts_V1.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/Contacts_V2.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\Contacts_V2.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/charlwood_new_v1.png
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\charlwood_new_v1.png
+Content Type: image/png
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/lent-c.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\lent-c.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/services-c.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\services-c.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/whats-on-C.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\whats-on-C.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/contact-us-C.css
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\contact-us-C.css
+Content Type: text/css
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/map.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\map.jpg
+Content Type: image/jpeg
+
+Uri: http://www.emmanuelchurchsidlow.co.uk/images/paper4.jpg
+File Name: C:\My Files\Sidlow and Charlwood websites\1.Emmanuel Cloned\www.emmanuelchurchsidlow.co.uk\images\paper4.jpg
+Content Type: image/jpeg
+

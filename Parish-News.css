@@ -1,0 +1,2019 @@
+div#container
+{
+   width: 1150px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #B2AA8A;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text4
+{
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+}
+#wb_Text4 div
+{
+   text-align: center;
+}
+#wb_Text1 
+{
+   background-color: rgba(89,81,51,0.59);
+   background-image: none;
+   border: 0px solid transparent;
+   height: 120px;
+   overflow-y: hidden;
+   padding: 0;
+   margin: 0;
+   max-width: 300px;
+   margin-left: auto !important;
+   margin-right: auto !important;
+   text-align: center;
+   -webkit-animation: swash-in 1000ms linear 0ms 1 normal both;
+   -moz-animation: swash-in 1000ms linear 0ms 1 normal both;
+   animation: swash-in 1000ms linear 0ms 1 normal both;
+}
+#wb_Text1
+{
+   color: #D8D8D8;
+   font-family: "Palatino Linotype";
+   font-weight: normal;
+   font-size: 43px;
+   line-height: 57px;
+}
+#wb_Text1 p, #wb_Text1 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#wb_Text1
+{
+   display: inline-block;
+   margin: 0;
+   width: 320px;
+   height: 120px;
+}
+#wb_LayoutGrid1
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: url(images/emmanuel_v5.png);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid1
+{
+   box-sizing: border-box;
+   padding: 0px 0px 250px 0px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid1 > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#LayoutGrid1 > .row > .col-1
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#LayoutGrid1 > .row > .col-1
+{
+   float: left;
+}
+#LayoutGrid1 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 100%;
+   text-align: center;
+}
+#LayoutGrid1:before,
+#LayoutGrid1:after,
+#LayoutGrid1 .row:before,
+#LayoutGrid1 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid1:after,
+#LayoutGrid1 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#LayoutGrid1 > .row > .col-1
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_ResponsiveMenu1
+{
+   background-color: rgba(114,100,67,1.00);
+   display: block;
+   font-family: Verdana;
+   font-weight: normal;
+   text-align: center;
+   width: 100%;
+}
+#ResponsiveMenu1
+{
+   background-color: #726443;
+   display: inline-block;
+   height: 53px;
+}
+#wb_ResponsiveMenu1 ul
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+}
+#wb_ResponsiveMenu1 ul:after
+{
+   clear: both;
+   content: "";
+   display: block;
+}
+#wb_ResponsiveMenu1 ul li
+{
+   background-color: #726443;
+   display: list-item;
+   float: left;
+   list-style: none;
+   z-index: 9999;
+}
+#wb_ResponsiveMenu1 ul li i
+{
+   font-size: 16px;
+   width: 16px;
+}
+#wb_ResponsiveMenu1 ul li a 
+{
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   padding: 10px 20px 10px 20px;
+   text-align: center;
+   text-decoration: none;
+}
+#wb_ResponsiveMenu1 > ul > li > a 
+{
+   height: 33px;
+}
+.ResponsiveMenu1 a 
+{
+   display: block;
+}
+#wb_ResponsiveMenu1 li a:hover, #wb_ResponsiveMenu1 li .active
+{ 
+   background-color: #CCCCCC;
+   background-color: rgba(204,204,204,0.00);
+   color: #FFC000;
+}
+#wb_ResponsiveMenu1 ul ul
+{
+   display: none;
+   position: absolute;
+   top: 53px;
+}
+#wb_ResponsiveMenu1 ul li:hover > ul
+{
+   display: list-item;
+}
+#wb_ResponsiveMenu1 ul ul li 
+{
+   background-color: #726443;
+   color: #FFFFFF;
+   float: none;
+   position: relative;
+   width: 181px;
+}
+#wb_ResponsiveMenu1 ul ul li a:hover, #wb_ResponsiveMenu1 ul ul li .active
+{
+   background-color: #726443;
+   color: #FFC000;
+}
+#wb_ResponsiveMenu1 ul ul li i 
+{
+   margin-right: 5px;
+   vertical-align: middle;
+}
+#wb_ResponsiveMenu1 ul ul li a 
+{
+   color: #FFFFFF;
+   padding-top: 10px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   text-align: left;
+   vertical-align: middle;
+}
+#wb_ResponsiveMenu1 ul ul ul li
+{
+   left: 181px;
+   position: relative;
+   top: -53px;
+}
+#wb_ResponsiveMenu1 .arrow-down
+{
+   display: inline-block;
+   width: 0;
+   height: 0;
+   margin-left: 2px;
+   vertical-align: middle;
+   border-top: 4px solid #FFFFFF;
+   border-right: 4px solid transparent;
+   border-left: 4px solid transparent;
+   border-bottom: 0 dotted;
+}
+#wb_ResponsiveMenu1 .arrow-left
+{
+   display: inline-block;
+   width: 0;
+   height: 0;
+   margin-left: 4px;
+   vertical-align: middle;
+   border-left: 4px solid #FFFFFF;
+   border-top: 4px solid transparent;
+   border-bottom: 4px solid transparent;
+   border-right: 0 dotted;
+}
+#wb_ResponsiveMenu1 li a:hover .arrow-down
+{
+   border-top-color: #FFC000;
+}
+#wb_ResponsiveMenu1 ul ul li a:hover .arrow-left, #wb_ResponsiveMenu1 ul ul li .active .arrow-left
+{ 
+   border-left-color: #FFC000;
+}
+#wb_ResponsiveMenu1 .toggle,[id^=ResponsiveMenu1-submenu]
+{
+   display: none;
+}
+@media all and (max-width:768px) 
+{
+#wb_ResponsiveMenu1 
+{
+   margin: 0;
+   text-align: left;
+}
+#wb_ResponsiveMenu1 ul li a, #wb_ResponsiveMenu1 .toggle
+{
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   padding: 10px 20px 10px 20px;
+}
+#wb_ResponsiveMenu1 .toggle + a
+{
+   display: none !important;
+}
+.ResponsiveMenu1 
+{
+   display: none;
+   z-index: 9999;
+}
+#ResponsiveMenu1 
+{
+   background-color: transparent;
+   display: none;
+}
+#wb_ResponsiveMenu1 > ul > li > a 
+{
+   height: auto !important;
+}
+#wb_ResponsiveMenu1 .toggle 
+{
+   display: block;
+   background-color: #726443;
+   color: #FFFFFF;
+   padding: 0px 20px 0px 20px;
+   line-height: 38px;
+   text-decoration: none;
+   border: none;
+   position: relative;
+}
+#wb_ResponsiveMenu1 .toggle:hover 
+{
+   background-color: #CCCCCC;
+   background-color: rgba(204,204,204,0.00);
+   color: #FFC000;
+}
+[id^=ResponsiveMenu1-submenu]:checked + ul 
+{
+   display: block !important;
+}
+#ResponsiveMenu1-title
+{
+   height: 53px !important;
+   line-height: 53px !important;
+   text-align: center;
+}
+#wb_ResponsiveMenu1 ul li 
+{
+   display: block;
+   width: 100% !important;
+   text-align: left;
+}
+#wb_ResponsiveMenu1 ul ul .toggle,
+#wb_ResponsiveMenu1 ul ul a 
+{
+   padding: 0 40px;
+}
+#wb_ResponsiveMenu1 a:hover,
+#wb_ResponsiveMenu1 ul ul ul a 
+{
+   background-color: #726443;
+   color: #FFFFFF;
+}
+#wb_ResponsiveMenu1 ul li ul li .toggle,
+#wb_ResponsiveMenu1 ul ul a 
+{
+   background-color: #726443;
+   color: #FFFFFF;
+}
+#wb_ResponsiveMenu1 ul ul ul a 
+{
+   padding: 10px 20px 10px 60px;
+}
+#wb_ResponsiveMenu1 ul li a 
+{
+   text-align: left;
+}
+#wb_ResponsiveMenu1 ul li a br 
+{
+   display: none;
+}
+#wb_ResponsiveMenu1 ul li i 
+{
+   margin-right: 5px;
+}
+#wb_ResponsiveMenu1 ul ul 
+{
+   float: none;
+   position: static;
+}
+#wb_ResponsiveMenu1 ul ul li:hover > ul,
+#wb_ResponsiveMenu1 ul li:hover > ul 
+{
+   display: none;
+}
+#wb_ResponsiveMenu1 ul ul li 
+{
+   display: block;
+   width: 100%;
+}
+#wb_ResponsiveMenu1 ul ul ul li 
+{
+   position: static;
+}
+#ResponsiveMenu1-icon 
+{
+   display: block;
+   position: absolute;
+   left: 20px;
+   top: 14px;
+}
+#ResponsiveMenu1-icon span 
+{
+   display: block;
+   margin-top: 4px;
+   height: 2px;
+   background-color: #FFFFFF;
+   color: #FFFFFF;
+   width: 24px;
+}
+#wb_ResponsiveMenu1 ul li ul li .toggle:hover
+{
+   background-color: #726443;
+   color: #FFC000;
+}
+#wb_ResponsiveMenu1 .toggle .arrow-down 
+{
+   border-top-color: #FFFFFF;
+}
+#wb_ResponsiveMenu1 .toggle:hover .arrow-down, #wb_ResponsiveMenu1 li .active .arrow-down
+{ 
+   border-top-color: #FFC000;
+}
+#wb_ResponsiveMenu1 ul li ul li .toggle .arrow-down 
+{
+   border-top-color: #FFFFFF;
+}
+#wb_ResponsiveMenu1 ul li ul li .toggle:hover .arrow-down, #wb_ResponsiveMenu1 ul li ul li .active .arrow-down
+{ 
+   border-top-color: #FFC000;
+}
+}
+#wb_LayoutGrid2
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid2
+{
+   box-sizing: border-box;
+   padding: 0;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid2 > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#LayoutGrid2 > .row > .col-1
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#LayoutGrid2 > .row > .col-1
+{
+   float: left;
+}
+#LayoutGrid2 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 100%;
+   text-align: left;
+}
+#LayoutGrid2:before,
+#LayoutGrid2:after,
+#LayoutGrid2 .row:before,
+#LayoutGrid2 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid2:after,
+#LayoutGrid2 .row:after
+{
+   clear: both;
+}
+@media (max-width: 700px)
+{
+#LayoutGrid2 > .row > .col-1
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Image1
+{
+   margin: 0;
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   padding: 0;
+   display: block;
+   width: 100%;
+   height: auto;
+   max-width: 100px;
+   margin-left: auto;
+   margin-right: auto;
+   vertical-align: top;
+}
+#wb_LayoutGrid3
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid3
+{
+   box-sizing: border-box;
+   padding: 30px 0px 0px 0px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid3 > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#LayoutGrid3 > .row > .col-1, #LayoutGrid3 > .row > .col-2, #LayoutGrid3 > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#LayoutGrid3 > .row > .col-1, #LayoutGrid3 > .row > .col-2, #LayoutGrid3 > .row > .col-3
+{
+   float: left;
+}
+#LayoutGrid3 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 25%;
+   text-align: center;
+}
+#LayoutGrid3 > .row > .col-2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 50%;
+   text-align: center;
+}
+#LayoutGrid3 > .row > .col-2 > .col-2-padding
+{
+   padding: 10px 0px 10px 0px;
+}
+#LayoutGrid3 > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 25%;
+   text-align: center;
+}
+#LayoutGrid3:before,
+#LayoutGrid3:after,
+#LayoutGrid3 .row:before,
+#LayoutGrid3 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid3:after,
+#LayoutGrid3 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#LayoutGrid3 > .row > .col-1, #LayoutGrid3 > .row > .col-2, #LayoutGrid3 > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Footer
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: #726443;
+   background-image: none;
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   margin: 0;
+}
+#Footer
+{
+   box-sizing: border-box;
+   padding: 20px 0px 20px 0px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#Footer > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#Footer > .row > .col-1
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#Footer > .row > .col-1
+{
+   float: left;
+}
+#Footer > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 100%;
+   text-align: left;
+}
+#Footer:before,
+#Footer:after,
+#Footer .row:before,
+#Footer .row:after
+{
+   display: table;
+   content: " ";
+}
+#Footer:after,
+#Footer .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#Footer > .row > .col-1
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Parish-news
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#Parish-news
+{
+   box-sizing: border-box;
+   padding: 30px 0px 0px 0px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#Parish-news > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#Parish-news > .row > .col-1, #Parish-news > .row > .col-2, #Parish-news > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#Parish-news > .row > .col-1, #Parish-news > .row > .col-2, #Parish-news > .row > .col-3
+{
+   float: left;
+}
+#Parish-news > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#Parish-news > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: center;
+}
+#Parish-news > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 16.66666667%;
+   text-align: left;
+}
+#Parish-news:before,
+#Parish-news:after,
+#Parish-news .row:before,
+#Parish-news .row:after
+{
+   display: table;
+   content: " ";
+}
+#Parish-news:after,
+#Parish-news .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#Parish-news > .row > .col-1, #Parish-news > .row > .col-2, #Parish-news > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Heading 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 0px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Heading div
+{
+   text-align: center;
+}
+#wb_subtitle 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   padding: 0px 0px 30px 0px;
+   margin: 20px 0px 0px 0px;
+   text-align: center;
+}
+#wb_subtitle
+{
+   color: #000000;
+   font-family: Tahoma;
+   font-weight: normal;
+   font-size: 19px;
+}
+#wb_subtitle div
+{
+   text-align: center;
+}
+#wb_contacts 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 2px solid #000000;
+   padding: 0;
+   margin: 0;
+   max-width: 320px;
+   margin-left: auto !important;
+   margin-right: auto !important;
+   text-align: center;
+}
+#wb_contacts
+{
+   color: #000000;
+   font-family: Tahoma;
+   font-weight: normal;
+   font-size: 16px;
+}
+#wb_contacts div
+{
+   text-align: center;
+}
+#wb_churchesx2
+{
+   margin: 0;
+   vertical-align: top;
+}
+#churchesx2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   display: inline-block;
+   width: 211px;
+   height: 205px;
+   vertical-align: top;
+}
+#wb_churches
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#churches
+{
+   box-sizing: border-box;
+   padding: 0px 15px 0px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#churches > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#churches > .row > .col-1, #churches > .row > .col-2, #churches > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#churches > .row > .col-1, #churches > .row > .col-2, #churches > .row > .col-3
+{
+   float: left;
+}
+#churches > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#churches > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: center;
+}
+#churches > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#churches:before,
+#churches:after,
+#churches .row:before,
+#churches .row:after
+{
+   display: table;
+   content: " ";
+}
+#churches:after,
+#churches .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#churches > .row > .col-1, #churches > .row > .col-2, #churches > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_dates
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#dates
+{
+   box-sizing: border-box;
+   padding: 0px 15px 0px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#dates > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#dates > .row > .col-1, #dates > .row > .col-2, #dates > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#dates > .row > .col-1, #dates > .row > .col-2, #dates > .row > .col-3
+{
+   float: left;
+}
+#dates > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: center;
+}
+#dates > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: center;
+}
+#dates > .row > .col-2 > .col-2-padding
+{
+   padding: 20px 0px 20px 0px;
+}
+#dates > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: center;
+}
+#dates:before,
+#dates:after,
+#dates .row:before,
+#dates .row:after
+{
+   display: table;
+   content: " ";
+}
+#dates:after,
+#dates .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#dates > .row > .col-1, #dates > .row > .col-2, #dates > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0px 0px 20px 0px;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_update
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#update
+{
+   box-sizing: border-box;
+   padding: 0px 15px 20px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#update > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#update > .row > .col-1, #update > .row > .col-2, #update > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#update > .row > .col-1, #update > .row > .col-2, #update > .row > .col-3
+{
+   float: left;
+}
+#update > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#update > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: left;
+}
+#update > .row > .col-2 > .col-2-padding
+{
+   padding: 0px 10px 0px 10px;
+}
+#update > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#update:before,
+#update:after,
+#update .row:before,
+#update .row:after
+{
+   display: table;
+   content: " ";
+}
+#update:after,
+#update .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#update > .row > .col-1, #update > .row > .col-2, #update > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#wb_prayer-box
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#prayer-box
+{
+   box-sizing: border-box;
+   padding: 20px 15px 20px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#prayer-box > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#prayer-box > .row > .col-1, #prayer-box > .row > .col-2, #prayer-box > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#prayer-box > .row > .col-1, #prayer-box > .row > .col-2, #prayer-box > .row > .col-3
+{
+   float: left;
+}
+#prayer-box > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#prayer-box > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: left;
+}
+#prayer-box > .row > .col-2 > .col-2-padding
+{
+   padding: 0px 10px 0px 10px;
+}
+#prayer-box > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#prayer-box:before,
+#prayer-box:after,
+#prayer-box .row:before,
+#prayer-box .row:after
+{
+   display: table;
+   content: " ";
+}
+#prayer-box:after,
+#prayer-box .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#prayer-box > .row > .col-1, #prayer-box > .row > .col-2, #prayer-box > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 2px solid #000000;
+   padding: 5px 10px 10px 10px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_reading-2
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   margin: 0;
+}
+#reading-2
+{
+   box-sizing: border-box;
+   padding: 20px 15px 20px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#reading-2 > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#reading-2 > .row > .col-1, #reading-2 > .row > .col-2, #reading-2 > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#reading-2 > .row > .col-1, #reading-2 > .row > .col-2, #reading-2 > .row > .col-3
+{
+   float: left;
+}
+#reading-2 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: center;
+}
+#reading-2 > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: center;
+}
+#reading-2 > .row > .col-2 > .col-2-padding
+{
+   padding: 0px 10px 0px 10px;
+}
+#reading-2 > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: center;
+}
+#reading-2:before,
+#reading-2:after,
+#reading-2 .row:before,
+#reading-2 .row:after
+{
+   display: table;
+   content: " ";
+}
+#reading-2:after,
+#reading-2 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#reading-2 > .row > .col-1, #reading-2 > .row > .col-2, #reading-2 > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#wb_week-day
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#week-day
+{
+   box-sizing: border-box;
+   padding: 20px 15px 20px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#week-day > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#week-day > .row > .col-1, #week-day > .row > .col-2, #week-day > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#week-day > .row > .col-1, #week-day > .row > .col-2, #week-day > .row > .col-3
+{
+   float: left;
+}
+#week-day > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#week-day > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   border: 0px solid #FFFFFF;
+   width: 66.66666667%;
+   text-align: left;
+}
+#week-day > .row > .col-2 > .col-2-padding
+{
+   padding: 0px 10px 0px 10px;
+}
+#week-day > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#week-day:before,
+#week-day:after,
+#week-day .row:before,
+#week-day .row:after
+{
+   display: table;
+   content: " ";
+}
+#week-day:after,
+#week-day .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#week-day > .row > .col-1, #week-day > .row > .col-2, #week-day > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
+#wb_LayoutGrid10
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid10
+{
+   box-sizing: border-box;
+   padding: 20px 15px 20px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid10 > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#LayoutGrid10 > .row > .col-1, #LayoutGrid10 > .row > .col-2, #LayoutGrid10 > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#LayoutGrid10 > .row > .col-1, #LayoutGrid10 > .row > .col-2, #LayoutGrid10 > .row > .col-3
+{
+   float: left;
+}
+#LayoutGrid10 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#LayoutGrid10 > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: left;
+}
+#LayoutGrid10 > .row > .col-2 > .col-2-padding
+{
+   padding: 0px 10px 0px 10px;
+}
+#LayoutGrid10 > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#LayoutGrid10:before,
+#LayoutGrid10:after,
+#LayoutGrid10 .row:before,
+#LayoutGrid10 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid10:after,
+#LayoutGrid10 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#LayoutGrid10 > .row > .col-1, #LayoutGrid10 > .row > .col-2, #LayoutGrid10 > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
+#wb_LayoutGrid11
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid11
+{
+   box-sizing: border-box;
+   padding: 20px 15px 20px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid11 > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#LayoutGrid11 > .row > .col-1, #LayoutGrid11 > .row > .col-2, #LayoutGrid11 > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#LayoutGrid11 > .row > .col-1, #LayoutGrid11 > .row > .col-2, #LayoutGrid11 > .row > .col-3
+{
+   float: left;
+}
+#LayoutGrid11 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#LayoutGrid11 > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: repeat;
+   background-position: center top;
+   background-size: cover;
+   border: 0px solid transparent;
+   width: 66.66666667%;
+   text-align: center;
+}
+#LayoutGrid11 > .row > .col-2 > .col-2-padding
+{
+   padding: 0px 10px 0px 10px;
+}
+#LayoutGrid11 > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#LayoutGrid11:before,
+#LayoutGrid11:after,
+#LayoutGrid11 .row:before,
+#LayoutGrid11 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid11:after,
+#LayoutGrid11 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#LayoutGrid11 > .row > .col-1, #LayoutGrid11 > .row > .col-2, #LayoutGrid11 > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 10px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text14 div
+{
+   text-align: left;
+}
+#wb_LayoutGrid12
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid12
+{
+   box-sizing: border-box;
+   padding: 20px 15px 0px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid12 > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#LayoutGrid12 > .row > .col-1, #LayoutGrid12 > .row > .col-2, #LayoutGrid12 > .row > .col-3
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#LayoutGrid12 > .row > .col-1, #LayoutGrid12 > .row > .col-2, #LayoutGrid12 > .row > .col-3
+{
+   float: left;
+}
+#LayoutGrid12 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#LayoutGrid12 > .row > .col-2
+{
+   background-color: transparent;
+   background-image: url(images/paper4.jpg);
+   background-repeat: no-repeat;
+   background-position: center top;
+   border: 0px solid #FFFFFF;
+   width: 66.66666667%;
+   text-align: left;
+}
+#LayoutGrid12 > .row > .col-3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 16.66666667%;
+   text-align: left;
+}
+#LayoutGrid12:before,
+#LayoutGrid12:after,
+#LayoutGrid12 .row:before,
+#LayoutGrid12 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid12:after,
+#LayoutGrid12 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#LayoutGrid12 > .row > .col-1, #LayoutGrid12 > .row > .col-2, #LayoutGrid12 > .row > .col-3
+{
+   float: none;
+   width: 100% !important;
+}
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 10px 0px 20px 0px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text15 div
+{
+   text-align: left;
+}
+#wb_updates 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_updates div
+{
+   text-align: center;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 20px 0px;
+   margin: 0px 10px 0px 10px;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#wb_collect 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 20px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_collect div
+{
+   text-align: center;
+}
+#wb_readings 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0px 0px 20px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_readings div
+{
+   text-align: center;
+}
+#wb_weekday-H 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 0px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_weekday-H div
+{
+   text-align: center;
+}
+#wb_resources 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0px 0px 20px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_resources div
+{
+   text-align: center;
+}
+#wb_p-news 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 20px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_p-news div
+{
+   text-align: center;
+}
+#wb_finally 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 20px 0px 0px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_finally div
+{
+   text-align: center;
+}
+#Stickylayer
+{
+   background-color: rgba(102,0,204,0.50);
+   background-image: none;
+   opacity: 0.77;
+}
+#wb_Arrowup
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   text-align: center;
+   margin: 0;
+   padding: 4px 4px 0px 4px;
+   vertical-align: top;
+}
+#wb_Arrowup:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#Arrowup
+{
+   height: 28px;
+   width: 24px;
+}
+#Arrowup i
+{
+   color: #FFFFFF;
+   display: inline-block;
+   font-size: 24px;
+   line-height: 28px;
+   vertical-align: middle;
+   width: 14px;
+}
+#wb_Arrowup:hover i
+{
+   color: #EEEEEE;
+}
+#wb_TextArt1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#TextArt1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_Footer
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: #726443;
+   background-image: none;
+   border: 0px solid transparent;
+   box-sizing: border-box;
+   margin: 0;
+}
+#Footer
+{
+   box-sizing: border-box;
+   padding: 20px 0px 20px 0px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#Footer > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#Footer > .row > .col-1
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#Footer > .row > .col-1
+{
+   float: left;
+}
+#Footer > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid transparent;
+   width: 100%;
+   text-align: left;
+}
+#Footer:before,
+#Footer:after,
+#Footer .row:before,
+#Footer .row:after
+{
+   display: table;
+   content: " ";
+}
+#Footer:after,
+#Footer .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#Footer > .row > .col-1
+{
+   float: none;
+   width: 100% !important;
+}
+}
